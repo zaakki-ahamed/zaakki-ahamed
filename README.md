@@ -1,4 +1,4 @@
-## Hi, I'm Zaki 👋
+## Hi, I'm Zaakki 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zaakki-ahamed&color=blueviolet&style=flat)
 
@@ -24,7 +24,7 @@ I build production booking platforms and RFP AI tooling.
 ### GitHub Stats
 
 ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<!-- ![Top Languages](./profile/top-langs.svg) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zaakki-ahamed&theme=tokyonight&hide_border=true)
 
