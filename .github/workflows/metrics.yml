@@ -2,8 +2,8 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 3 * * *" # daily at 03:00 UTC
-  workflow_dispatch: # manual "Run workflow" button
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
+  workflow_dispatch:        # manual "Run workflow" button
 
 permissions:
   contents: write
@@ -28,22 +28,12 @@ jobs:
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 8
 
-          # 3D isometric contribution calendar (full year)
+          # 3D isometric contribution calendar (full year, includes streaks)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
           # Lines of code changed
           plugin_lines: yes
-
-          # Coding habits and most active hours
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          # GitHub achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
 
           # Issues / pull request follow-up
           plugin_followup: yes
