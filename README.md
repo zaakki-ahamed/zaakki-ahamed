@@ -23,15 +23,7 @@ I build production booking platforms and RFP AI tooling.
 
 ### GitHub Stats
 
-![Zaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaakki-ahamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaakki-ahamed&layout=compact&theme=tokyonight&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=zaakki-ahamed&theme=tokyonight)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaakki-ahamed&theme=tokyo-night&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=zaakki-ahamed&theme=tokyonight&no-frame=true&column=7)
+![Metrics](./github-metrics.svg)
 
 ### Connect
 
