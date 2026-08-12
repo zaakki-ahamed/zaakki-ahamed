@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zaakki Ahamed Siraj Luthufi's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 27, Total Commits  : 5303, Total PRs: 1415, Total Issues: 0, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 27, Total Commits  : 5307, Total PRs: 1416, Total Issues: 0, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 113.45953384507628;
+        stroke-dashoffset: 113.4565961246651;
       }
     }
   
